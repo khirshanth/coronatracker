@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://img-new.cgtrader.com/items/2259258/87b88605cb/corona-virus-3d-model-max-obj-fbx.jpg);
+    background-position: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
